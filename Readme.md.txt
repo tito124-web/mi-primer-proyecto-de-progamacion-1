@@ -3,3 +3,4 @@ Nombre: Josué David Martínez Ortíz
 
 Nota: Esto es algo nuevo para mi pero se que voy avanzando
   
+Nota2: nuevos cambios  en la rama de tito ya comienzo a entender a git 
