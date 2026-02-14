@@ -1,0 +1,17 @@
+Archivo de respuestas
+• Nombre: Josué David Martinez Ortíz
+ Numero: 3625-5076
+
+ i. ¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+Me parece interesante como es que funciona como crear proyectos de una manera ordenada
+
+
+ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+Ya que trabaje solo ano he experimentado como es trabajar con paraja
+
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+      Tiene mucho potencial a la hora de trabajar en equipo llevar el proyecto de una forma mas ordenada y entendible sin afectar al código principal 
+
